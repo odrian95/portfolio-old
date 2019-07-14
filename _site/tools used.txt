@@ -1,9 +1,0 @@
-Bootstrap
-
-WOW.js
-
-Tweenmax
-
-Font Awsome
-
-Google Fonts (Varela, )
